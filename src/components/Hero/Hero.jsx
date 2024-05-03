@@ -41,7 +41,7 @@ function Hero() {
                   </ul>
                </div>
                <div className={styles.hero_pic}>
-                  <Tilt scale={1.2} transitionSpeed={2500} tiltReverse={true}>
+                  <Tilt scale={1.15} transitionSpeed={5000} tiltReverse={true}>
                      <div className={styles.hero_img}></div>
                   </Tilt>
                </div>
